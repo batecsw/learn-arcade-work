@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"..\/..\/..\/..\/..\/..\/Program Files\/Tiled\/examples\/buch-outdoor.png",
+ "imageheight":192,
+ "imagewidth":384,
+ "margin":0,
+ "name":"buch-outdoor",
+ "spacing":0,
+ "tilecount":3,
+ "tiledversion":"1.11.0",
+ "tileheight":128,
+ "tilewidth":128,
+ "type":"tileset",
+ "version":"1.10"
+}

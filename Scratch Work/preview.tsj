@@ -1,0 +1,14 @@
+{ "columns":17,
+ "image":"..\/..\/..\/..\/..\/..\/Program Files\/Tiled\/examples\/sticker-knight\/preview.png",
+ "imageheight":1700,
+ "imagewidth":2200,
+ "margin":0,
+ "name":"preview",
+ "spacing":0,
+ "tilecount":221,
+ "tiledversion":"1.11.0",
+ "tileheight":128,
+ "tilewidth":128,
+ "type":"tileset",
+ "version":"1.10"
+}

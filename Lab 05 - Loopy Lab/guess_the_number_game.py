@@ -1,6 +1,7 @@
 """
-Random Number Guessing Game
+Random Number Guessing Game - an exercise in using while loop and conditionals
 """
+
 import random
 
 
@@ -44,6 +45,7 @@ def main():
     # wondering.
     if user_guess != secret_number:
         print("Aw, you ran out of tries. The number was " + str(secret_number) + ".")
+
 
 # Call the main function
 main()

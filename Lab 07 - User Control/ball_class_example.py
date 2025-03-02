@@ -1,3 +1,15 @@
+"""
+
+This program controls 3 balls bouncing around the game window. It demonstrates the following features:
+
+The code controlling the movement of the ball is abstracted away into a Ball class
+This code includes a set of 4 conditionals dealing with bouncing off each of the 4 edges of the screen
+The balls are managed by adding them to a ball list
+Each Ball is just a drawn shape, but the code structure shows how we would manage lists of sprites in the same way
+
+"""
+
+
 import arcade
 
 SCREEN_WIDTH = 640
@@ -83,7 +95,7 @@ class MyGame(arcade.Window):
 
 
 def main():
-    window = MyGame(SCREEN_WIDTH, SCREEN_HEIGHT, "Drawing Example")
+    window = MyGame(SCREEN_WIDTH, SCREEN_HEIGHT, "Three bouncing balls")
 
     arcade.run()
 
