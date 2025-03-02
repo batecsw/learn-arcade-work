@@ -1,4 +1,4 @@
-# A text adventure game
+# A simple text adventure game
 class Room:
     """
     this class represents the rooms in the playing area
